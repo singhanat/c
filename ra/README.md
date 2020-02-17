@@ -15,3 +15,4 @@
 
 #### ส่งงาน LAB 1
 + [วิทย์](https://github.com/wit03/Algorithm-Practice/blob/master/kmutt/lab/01.md)
++ [ทัดไท](https://github.com/T4tt4i/lab_01/blob/master/lab_01.md.md)
