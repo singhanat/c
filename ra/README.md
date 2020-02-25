@@ -18,3 +18,13 @@
 + [วิชญ์](https://github.com/wit03/Algorithm-Practice/blob/master/kmutt/lab/01.md)
 + [ธัชไท](https://github.com/T4tt4i/lab_01/blob/master/lab_01.md.md)
 + [ภูมิ](https://github.com/singhanat/c/commit/9e0242b84af4484c90fba757e8474d8c5074ff82)
+
+#### ส่งงาน LAB 2
++ ธัชไท
++ วิชญ์
++ ภูมิ
+
+#### ส่งงาน LAB 3
++ ภูมิ
++ ธัชไท
++ วิชญ์
