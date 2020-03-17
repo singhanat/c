@@ -26,8 +26,16 @@
   - [0008: X2](https://github.com/T4tt4i/KMUTT-c-programming/blob/master/week_3/X2.c)
   - 0009: ABC
   - [0029: frog](https://github.com/T4tt4i/KMUTT-c-programming/blob/master/week_3/froggy.c)
-+ [วิชญ์](https://github.com/wit03/Algorithm-Practice/tree/master/kmutt/lab2)
-+ [ภูมิ](https://github.com/pumiwat/kmutt-c-programming/tree/master/lab2)
++ วิชญ์
+  - [0005: Pythagorus](https://github.com/wit03/Algorithm-Practice/blob/master/kmutt/lab2/pythagorus.c)
+  - [0008: X2](https://github.com/wit03/Algorithm-Practice/blob/master/kmutt/lab2/xx.c)
+  - [0009: ABC](https://github.com/wit03/Algorithm-Practice/blob/master/kmutt/lab2/abc.c)
+  - [0029: frog](https://github.com/wit03/Algorithm-Practice/blob/master/kmutt/lab2/frog.c)
++ ภูมิ
+  - [0005: Pythagorus]()
+  - [0008: X2]()
+  - [0009: ABC]()
+  - [0029: frog]()
 
 #### ส่งงาน LAB 3
 + [ภูมิ](https://github.com/pumiwat/kmutt-c-programming/tree/master/lab3)
