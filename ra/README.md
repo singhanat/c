@@ -21,7 +21,11 @@
 + [ภูมิ](https://github.com/singhanat/c/commit/9e0242b84af4484c90fba757e8474d8c5074ff82)
 
 #### ส่งงาน LAB 2
-+ [ธัชไท](https://github.com/T4tt4i/KMUTT-c-programming/tree/master/week_3)
++ ธัชไท 
+  - [0005: Pythagorus](https://github.com/T4tt4i/KMUTT-c-programming/blob/master/week_3/pythagoras.c)  
+  - [0008: X2](https://github.com/T4tt4i/KMUTT-c-programming/blob/master/week_3/X2.c)
+  - 0009: ABC
+  - [0029: frog](https://github.com/T4tt4i/KMUTT-c-programming/blob/master/week_3/froggy.c)
 + [วิชญ์](https://github.com/wit03/Algorithm-Practice/tree/master/kmutt/lab2)
 + [ภูมิ](https://github.com/pumiwat/kmutt-c-programming/tree/master/lab2)
 
