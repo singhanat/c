@@ -58,4 +58,4 @@
   - [0010 : Trik](https://github.com/wit03/Algorithm-Practice/blob/master/kmutt/lab3/trik.c)
   - [0011 : Modulo](https://github.com/wit03/Algorithm-Practice/blob/master/kmutt/lab3/modulo.c)
   - [0013 : Seven Dwarves](https://github.com/wit03/Algorithm-Practice/blob/master/kmutt/lab3/seven-dwarves.c)
-  - [1000 : Word Chain](https://github.com/wit03/Algorithm-Practice/blob/master/kmutt/lab3/word-chain.c)
+  - 1000 : Word Chain
