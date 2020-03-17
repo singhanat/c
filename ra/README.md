@@ -32,12 +32,30 @@
   - [0009: ABC](https://github.com/wit03/Algorithm-Practice/blob/master/kmutt/lab2/abc.c)
   - [0029: frog](https://github.com/wit03/Algorithm-Practice/blob/master/kmutt/lab2/frog.c)
 + ภูมิ
-  - [0005: Pythagorus]()
-  - [0008: X2]()
-  - [0009: ABC]()
-  - [0029: frog]()
+  - 0005: Pythagorus
+  - [0008: X2](https://github.com/pumiwat/kmutt-c-programming/blob/master/lab2/0008.c)
+  - 0009: ABC
+  - [0029: frog](https://github.com/pumiwat/kmutt-c-programming/blob/master/lab2/0029.c)
 
 #### ส่งงาน LAB 3
-+ [ภูมิ](https://github.com/pumiwat/kmutt-c-programming/tree/master/lab3)
++ ภูมิ
+  - [0015 : Skocimis](https://github.com/pumiwat/kmutt-c-programming/blob/master/lab3/0015.c)
+  - [0004 : Character Checker](https://github.com/pumiwat/kmutt-c-programming/blob/master/lab3/0004.c)
+  - 0010 : Trik
+  - 0011 : Modulo
+  - 0013 : Seven Dwarves
+  - 1000 : Word Chain
 + ธัชไท
+  - 0015 : Skocimis
+  - 0004: Character Checker
+  - 0010 : Trik
+  - 0011 : Modulo
+  - 0013 : Seven Dwarves
+  - 1000 : Word Chain
 + วิชญ์
+  - 0015 : Skocimis
+  - 0004: Character Checker
+  - 0010 : Trik
+  - 0011 : Modulo
+  - 0013 : Seven Dwarves
+  - 1000 : Word Chain
