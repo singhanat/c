@@ -53,9 +53,9 @@
   - 0013 : Seven Dwarves
   - 1000 : Word Chain
 + วิชญ์
-  - 0015 : Skocimis
-  - 0004: Character Checker
-  - 0010 : Trik
-  - 0011 : Modulo
-  - 0013 : Seven Dwarves
-  - 1000 : Word Chain
+  - [0015 : Skocimis](https://github.com/wit03/Algorithm-Practice/blob/master/kmutt/lab3/skocimis.c)
+  - [0004: Character Checker](https://github.com/wit03/Algorithm-Practice/blob/master/kmutt/lab3/char-check.c)
+  - [0010 : Trik](https://github.com/wit03/Algorithm-Practice/blob/master/kmutt/lab3/trik.c)
+  - [0011 : Modulo](https://github.com/wit03/Algorithm-Practice/blob/master/kmutt/lab3/modulo.c)
+  - [0013 : Seven Dwarves](https://github.com/wit03/Algorithm-Practice/blob/master/kmutt/lab3/seven-dwarves.c)
+  - [1000 : Word Chain](https://github.com/wit03/Algorithm-Practice/blob/master/kmutt/lab3/word-chain.c)
